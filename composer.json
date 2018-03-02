@@ -1,0 +1,14 @@
+{
+    "name": "lopezator/sfdocker",
+    "description": "Coding katas with PHP made easy",
+    "require": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "David López",
+            "email": "dlopbec@gmail.com"
+        }
+    ]
+}
